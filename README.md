@@ -2,7 +2,8 @@
 
 Programming course for Python. 100 Days Challenge
 
--   [ ] `Day 1`. 2022.04.23
+-   [x] `Day 1`. 2022.04.23
+    -   [x] Band Generator Program
 -   [ ] `Day 2`. 2022.04.24
 -   [ ] `Day 3`. 2022.04.25
 -   [ ] `Day 4`. 2022.04.26
