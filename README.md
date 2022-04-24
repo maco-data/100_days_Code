@@ -2,12 +2,12 @@
 
 This is my attempt to Mastering Python by building 100 projects in 100 days learning:
 
-- Data Science
-- Automation
-- Building Websites
-- Games
-- Apps
-    
+-   Data Science
+-   Automation
+-   Building Websites
+-   Games
+-   Apps
+
 ## Goals
 
 1. Be able to program in Python professionally
@@ -15,15 +15,15 @@ This is my attempt to Mastering Python by building 100 projects in 100 days lear
 3. Create a portfolio of 100 Python projects to apply for developer jobs
 4. Be able to build fully fledged websites and web apps with Python
 5. Be able to use Python for data science and machine learning
-6. Build games with Python, like: 
+6. Build games with Python, like:
 
     - Blackjack
     - Pong
     - Snake using
-    
+
 7. Build GUIs and Desktop applications with Python
 8. Learn to use modern frameworks like:
-    
+
     - Selenium
     - Beautiful Soup
     - Request
@@ -39,14 +39,14 @@ This is my attempt to Mastering Python by building 100 projects in 100 days lear
 
 This course was created by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/#instructor-1) on [Udemy](https://www.udemy.com/course/100-days-of-code/)
 
-
 ## Progress
 
 Programming course for Python. 100 Days Challenge
 
 -   [x] `Day 1`. 2022.04.23
     -   [x] Band Generator Program
--   [ ] `Day 2`. 2022.04.24
+-   [x] `Day 2`. 2022.04.24
+    -   [x] Tip Calculator
 -   [ ] `Day 3`. 2022.04.25
 -   [ ] `Day 4`. 2022.04.26
 -   [ ] `Day 5`. 2022.04.27
