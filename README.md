@@ -47,7 +47,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Band Generator Program
 -   [x] `Day 2`. 2022.04.24
     -   [x] Tip Calculator
--   [ ] `Day 3`. 2022.04.25
+-   [x] `Day 3`. 2022.04.25
+    -   [x] Treasure Island
 -   [ ] `Day 4`. 2022.04.26
 -   [ ] `Day 5`. 2022.04.27
 -   [ ] `Day 6`. 2022.04.28
