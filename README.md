@@ -51,7 +51,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Treasure Island
 -   [x] `Day 4`. 2022.04.26
     -   [x] Rock Paper Scissors
--   [ ] `Day 5`. 2022.04.27
-    -   [ ] Create a Password Generator
+-   [x] `Day 5`. 2022.04.27
+    -   [x] Create a Password Generator
 -   [ ] `Day 6`. 2022.04.28
+    -   [ ] Escaping the Maze
 -   [ ] `Day 7`. 2022.04.29
