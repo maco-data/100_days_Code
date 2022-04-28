@@ -53,6 +53,21 @@ Programming course for Python. 100 Days Challenge
     -   [x] Rock Paper Scissors
 -   [x] `Day 5`. 2022.04.27
     -   [x] Create a Password Generator
--   [ ] `Day 6`. 2022.04.28
-    -   [ ] Escaping the Maze
+-   [x] `Day 6`. 2022.04.28
+    -   [x] Escaping the Maze
 -   [ ] `Day 7`. 2022.04.29
+    -   [ ] Hang Man
+-   [ ] `Day 8`. 2022.04.30
+-   [ ] `Day 9`. 2022.05.01
+-   [ ] `Day 10`. 2022.05.01
+-   [ ] `Day 11`. 2022.05.02
+-   [ ] `Day 12`. 2022.05.03
+-   [ ] `Day 13`. 2022.05.04
+-   [ ] `Day 14`. 2022.05.05
+-   [ ] `Day 15`. 2022.05.06
+-   [ ] `Day 16`. 2022.05.07
+-   [ ] `Day 17`. 2022.05.08
+-   [ ] `Day 18`. 2022.05.09
+-   [ ] `Day 19`. 2022.05.10
+-   [ ] `Day 20`. 2022.05.10
+-   [ ] `Day 21`. 2022.05.11
