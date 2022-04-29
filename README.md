@@ -55,8 +55,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Create a Password Generator
 -   [x] `Day 6`. 2022.04.28
     -   [x] Escaping the Maze
--   [ ] `Day 7`. 2022.04.29
-    -   [ ] Hang Man
+-   [x] `Day 7`. 2022.04.29
+    -   [x] Hang Man
 -   [ ] `Day 8`. 2022.04.30
 -   [ ] `Day 9`. 2022.05.01
 -   [ ] `Day 10`. 2022.05.01
