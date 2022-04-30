@@ -57,8 +57,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Escaping the Maze
 -   [x] `Day 7`. 2022.04.29
     -   [x] Hang Man
--   [ ] `Day 8`. 2022.04.30
-    -   [ ] Ceasar Cipher
+-   [x] `Day 8`. 2022.04.30
+    -   [x] Caesar Cipher
 -   [ ] `Day 9`. 2022.05.01
 -   [ ] `Day 10`. 2022.05.01
 -   [ ] `Day 11`. 2022.05.02
