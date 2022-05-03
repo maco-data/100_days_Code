@@ -64,6 +64,7 @@ Programming course for Python. 100 Days Challenge
 -   [x] `Day 10`. 2022.05.01
     -   [x] Calculator
 -   [ ] `Day 11`. 2022.05.02
+    -   [ ] Black Jack **Capstone Project**
 -   [ ] `Day 12`. 2022.05.03
 -   [ ] `Day 13`. 2022.05.04
 -   [ ] `Day 14`. 2022.05.05
