@@ -61,7 +61,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Caesar Cipher
 -   [x] `Day 9`. 2022.05.01
     -   [x] Secret Auction
--   [ ] `Day 10`. 2022.05.01
+-   [x] `Day 10`. 2022.05.01
+    -   [x] Calculator
 -   [ ] `Day 11`. 2022.05.02
 -   [ ] `Day 12`. 2022.05.03
 -   [ ] `Day 13`. 2022.05.04
