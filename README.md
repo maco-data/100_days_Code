@@ -61,17 +61,17 @@ Programming course for Python. 100 Days Challenge
     -   [x] Caesar Cipher
 -   [x] `Day 9`. 2022.05.01
     -   [x] Secret Auction
--   [x] `Day 10`. 2022.05.01
+-   [x] `Day 10`. 2022.05.03
     -   [x] Calculator
--   [ ] `Day 11`. 2022.05.02
-    -   [ ] Black Jack **Capstone Project**
--   [ ] `Day 12`. 2022.05.03
--   [ ] `Day 13`. 2022.05.04
--   [ ] `Day 14`. 2022.05.05
--   [ ] `Day 15`. 2022.05.06
--   [ ] `Day 16`. 2022.05.07
--   [ ] `Day 17`. 2022.05.08
--   [ ] `Day 18`. 2022.05.09
--   [ ] `Day 19`. 2022.05.10
--   [ ] `Day 20`. 2022.05.10
--   [ ] `Day 21`. 2022.05.11
+-   [x] `Day 11`. 2022.05.05
+    -   [x] Black Jack **Capstone Project**
+-   [ ] `Day 12`. 2022.05.06
+-   [ ] `Day 13`. 2022.
+-   [ ] `Day 14`. 2022.
+-   [ ] `Day 15`. 2022.
+-   [ ] `Day 16`. 2022.
+-   [ ] `Day 17`. 2022.
+-   [ ] `Day 18`. 2022.
+-   [ ] `Day 19`. 2022.
+-   [ ] `Day 20`. 2022.
+-   [ ] `Day 21`. 2022.
