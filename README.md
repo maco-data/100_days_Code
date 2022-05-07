@@ -67,7 +67,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Black Jack **Capstone Project**
 -   [x] `Day 12`. 2022.05.06
     -   [x] The Number Guessing Game
--   [ ] `Day 13`. 2022.
+-   [x] `Day 13`. 2022.05.07
+    -   [x] Debugging for Begginers
 -   [ ] `Day 14`. 2022.
 -   [ ] `Day 15`. 2022.
 -   [ ] `Day 16`. 2022.
