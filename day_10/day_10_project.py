@@ -1,6 +1,8 @@
-#from replit import clear
+from os import system
 from art import logo
 
+def clear():
+    system("clear")
 
 def add(n1, n2):
     return n1 + n2
@@ -34,13 +36,13 @@ def calculator():
         num2 = float(input("What's the next number?: "))
         calculation_function = operations[operation_symbol]
         answer = calculation_function(num1, num2)
-        print(f"{num1} {operation_symbol} {num2} = {answer}")
+        print(f"\n{num1} {operation_symbol} {num2} = {answer}")
 
-        if input(f"Type 'y' to continue calculationg with {answer}, or type 'n' to start a new calculation: ") == 'y':
+        if input(f"\nType 'y' to continue calculationg with {answer}, or type 'n' to start a new calculation: ") == 'y':
             num1 = answer
         else:
             should_continue = False
-            # clear()
+            clear()
             calculator()
 
 calculator()

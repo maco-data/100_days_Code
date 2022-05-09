@@ -1,4 +1,4 @@
-#from replit import clear
+import os
 from art import logo
 
 print(logo)
@@ -6,6 +6,8 @@ print(logo)
 bids = {}
 bidding_finished = False
 
+def clear():
+    os.system("clear")
 
 def find_highest_bidder(bidding_record):
     highest_bid = 0
@@ -29,4 +31,4 @@ while not bidding_finished:
         bidding_finished = True
         find_highest_bidder(bids)
     elif should_continue == "yes":
-        clear() # this clear function only works in repl.it
+        clear()
