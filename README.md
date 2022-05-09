@@ -69,7 +69,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] The Number Guessing Game
 -   [x] `Day 13`. 2022.05.07
     -   [x] Debugging for Begginers
--   [ ] `Day 14`. 2022.
+-   [x] `Day 14`. 2022.05.09
+    -   [x] Higher or Lower
 -   [ ] `Day 15`. 2022.
 -   [ ] `Day 16`. 2022.
 -   [ ] `Day 17`. 2022.
