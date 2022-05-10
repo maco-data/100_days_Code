@@ -71,7 +71,8 @@ Programming course for Python. 100 Days Challenge
     -   [x] Debugging for Begginers
 -   [x] `Day 14`. 2022.05.09
     -   [x] Higher or Lower
--   [ ] `Day 15`. 2022.
+-   [ ] `Day 15`. 2022.05.10
+    -   [ ] Coffe Machine
 -   [ ] `Day 16`. 2022.
 -   [ ] `Day 17`. 2022.
 -   [ ] `Day 18`. 2022.
