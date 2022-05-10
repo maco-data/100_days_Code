@@ -10,11 +10,12 @@ def pet_name():
     return pet
 
 
-# Welcomes user, ask execute question and generates band name
 def greeting():
+    """Welcomes user, ask execute question and generates band name"""
     print("Welcome to Band Name Generator")
     c_name = city_name()
     p_name = pet_name()
     print(f"They name of your band is {c_name} {p_name}!")
+
 
 greeting()

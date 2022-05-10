@@ -9,6 +9,7 @@
 ## The cards in the list have an equal probability of being drawn.
 ## Cards are not removed from the deck as they are drawn.
 
+
 import random
 from os import system
 from art import logo
@@ -16,6 +17,7 @@ from art import logo
 
 def clear():
   system("clear")
+
 
 def deal_card():
   """Returns a random card from the deck."""
@@ -32,6 +34,7 @@ def calculate_score(cards):
     cards.remove(11)
     cards.append(1)
   return sum(cards)
+
 
 def compare(user_score, computer_score):
   if user_score > 21 and computer_score > 21:
@@ -51,8 +54,8 @@ def compare(user_score, computer_score):
   else:
     return "\nYou lose 😤"
 
-def play_game():
 
+def play_game():
   print(logo)
 
   user_cards = []
@@ -85,6 +88,7 @@ def play_game():
   print(f"\nYour final hand: {user_cards}, final score: {user_score}")
   print(f"\nComputer's final hand: {computer_cards}, final score: {computer_score}")
   print(compare(user_score, computer_score))
+
 
 while input("\nDo you want to play a game of Blackjack? Type 'y' or 'n': ") == "y":
   clear()

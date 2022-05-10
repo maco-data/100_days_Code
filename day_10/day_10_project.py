@@ -1,27 +1,26 @@
 from os import system
 from art import logo
 
+
 def clear():
     system("clear")
+
 
 def add(n1, n2):
     return n1 + n2
 
+
 def substract(n1, n2):
     return n1 - n2
+
 
 def multiply(n1, n2):
     return n1 * n2
 
+
 def divide(n1, n2):
     return n1 / n2
 
-operations = {
-    "+": add,
-    "-": substract,
-    "*": multiply,
-    "/": divide
-}
 
 def calculator():
     print(logo)
@@ -44,5 +43,13 @@ def calculator():
             should_continue = False
             clear()
             calculator()
+
+
+operations = {
+    "+": add,
+    "-": substract,
+    "*": multiply,
+    "/": divide
+}
 
 calculator()

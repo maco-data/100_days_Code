@@ -1,11 +1,13 @@
-from art import logo, vs
-from game_data import data
 import random
 import os
+from art import logo, vs
+from game_data import data
+
 
 def cls():
     """Clears the shell"""
     os.system("clear")
+
 
 def format_data(account):
   """Takes the account data and returns the printable format."""
@@ -14,12 +16,14 @@ def format_data(account):
   account_country = account["country"]
   return f"{account_name}, a {account_descr}, from {account_country}"
 
+
 def check_answer(guess, a_followers, b_followers):
   """Take the user guess and follower counts and returns if they got it right."""
   if a_followers > b_followers:
     return guess == "a"
   else:
     return guess == "b"
+
 
 # Display art
 print(logo)

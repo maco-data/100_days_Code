@@ -2,8 +2,9 @@
 displayed are due to many functions called without
 having them defined """
 
-# This function makes the robot turn itself until it faces right
+
 def turn_right():
+    """This function makes the robot turn itself until it faces right"""
     turn_left()
     turn_left()
     turn_left()

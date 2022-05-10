@@ -1,11 +1,12 @@
 from random import randint
 from art import logo
 
+
 # Global variables to set the amount of turns
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 
-# Function to check user's guess against actual answer
+
 def check_answer(guess, answer, turns):
   """Checks answer against guess. Returns the number of turns remaining."""
   if guess > answer:
@@ -17,8 +18,9 @@ def check_answer(guess, answer, turns):
   else:
     print(f"You got it! I had {answer} in my mind! Your are a true Wizard!.")
 
-# Make function to set difficulty
+
 def set_difficulty():
+  """Ask user to set the game difficulty"""
   level = input("Choose a difficulty. Type 'easy' or 'hard': ")
   if level == "easy":
     return EASY_LEVEL_TURNS
@@ -26,7 +28,7 @@ def set_difficulty():
     return HARD_LEVEL_TURNS
 
 def game():
-  # Print the cool logo and welcome the user
+  """Game engine"""
   print(logo)
   
   print("Welcome to the Number Guessing Game!")
